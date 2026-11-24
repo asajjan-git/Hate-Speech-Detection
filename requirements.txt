@@ -1,0 +1,27 @@
+# ── Data & Database ──────────────────────────────────────────
+pandas==2.2.2
+numpy==1.26.4
+SQLAlchemy==2.0.30
+PyMySQL==1.1.0
+openpyxl==3.1.2
+
+# ── NLP & Text Cleaning ──────────────────────────────────────
+nltk==3.8.1
+scikit-learn==1.5.0
+xgboost==2.0.3
+imbalanced-learn==0.12.3
+
+# ── API ──────────────────────────────────────────────────────
+flask==3.0.3
+flask-cors==4.0.1
+
+# ── Dashboard ────────────────────────────────────────────────
+streamlit==1.35.0
+plotly==5.22.0
+altair==5.3.0
+
+# ── Utilities ────────────────────────────────────────────────
+python-dotenv==1.0.1
+joblib==1.4.2
+tqdm==4.66.4
+requests==2.32.3
